@@ -5,6 +5,10 @@
 
 
 ### s8
+
+[s8视频链接](https://raw.githubusercontent.com/android-notes/coolview/master/s8.mp4)
+
+
 ![s8](https://github.com/android-notes/coolview/blob/master/s8.gif?raw=true)
 
 
